@@ -1,0 +1,57 @@
+/* Style général */
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Barre de navigation style Nintendo */
+.navbar {
+    border-bottom: 4px solid #cc0000;
+}
+
+/* Cartes Pokémon */
+.hover-shadow {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.hover-shadow:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.15) !important;
+}
+
+/* Image du Pokémon avec un cercle de fond léger */
+.card-img-top {
+    background: radial-gradient(#eee 20%, transparent 70%);
+    transition: transform 0.3s ease;
+}
+
+.card:hover .card-img-top {
+    transform: scale(1.1);
+}
+
+/* Badges de types */
+.badge {
+    font-weight: 500;
+    padding: 0.5em 0.8em;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+}
+
+/* Input de recherche */
+.form-control:focus, .form-select:focus {
+    border-color: #ff0000;
+    box-shadow: 0 0 0 0.25rem rgba(255, 0, 0, 0.25);
+}
+
+/* Animation lors de la disparition (Simple Fade) */
+.col-6 {
+    animation: fadeIn 0.4s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}

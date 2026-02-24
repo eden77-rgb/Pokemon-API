@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\soler\\Desktop\\Pokemon-API\\src\\ServiceRequestApp.Domain\\ServiceRequestApp.Domain.csproj": {}
+    "C:\\Users\\edenv\\Documents\\Modern_appli_dev_C#\\Pokemon-API\\src\\ServiceRequestApp.Domain\\ServiceRequestApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\soler\\Desktop\\Pokemon-API\\src\\ServiceRequestApp.Domain\\ServiceRequestApp.Domain.csproj": {
+    "C:\\Users\\edenv\\Documents\\Modern_appli_dev_C#\\Pokemon-API\\src\\ServiceRequestApp.Domain\\ServiceRequestApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\soler\\Desktop\\Pokemon-API\\src\\ServiceRequestApp.Domain\\ServiceRequestApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\edenv\\Documents\\Modern_appli_dev_C#\\Pokemon-API\\src\\ServiceRequestApp.Domain\\ServiceRequestApp.Domain.csproj",
         "projectName": "ServiceRequestApp.Domain",
-        "projectPath": "C:\\Users\\soler\\Desktop\\Pokemon-API\\src\\ServiceRequestApp.Domain\\ServiceRequestApp.Domain.csproj",
-        "packagesPath": "C:\\Users\\soler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\soler\\Desktop\\Pokemon-API\\src\\ServiceRequestApp.Domain\\obj\\",
+        "projectPath": "C:\\Users\\edenv\\Documents\\Modern_appli_dev_C#\\Pokemon-API\\src\\ServiceRequestApp.Domain\\ServiceRequestApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\edenv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edenv\\Documents\\Modern_appli_dev_C#\\Pokemon-API\\src\\ServiceRequestApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\soler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\edenv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
