@@ -1,0 +1,152 @@
+n;pokemon;type;type2;sub_evolution;evolution;mega_evolution;region;generation;sprite
+1;Bulbasaur;Grass;Poison;;Ivysaur;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png
+2;Ivysaur;Grass;Poison;Bulbasaur;Venusaur;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png
+3;Venusaur;Grass;Poison;Ivysaur;;Mega Venusaur;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png
+4;Charmander;Fire;;;Charmeleon;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png
+5;Charmeleon;Fire;;Charmander;Charizard;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png
+6;Charizard;Fire;Flying;Charmeleon;;Mega Charizard;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png
+7;Squirtle;Water;;;Wartortle;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png
+8;Wartortle;Water;;Squirtle;Blastoise;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png
+9;Blastoise;Water;;Wartortle;;Mega Blastoise;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png
+10;Caterpie;Bug;;;Metapod;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png
+11;Metapod;Bug;;Caterpie;Butterfree;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png
+12;Butterfree;Bug;Flying;Metapod;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png
+13;Weedle;Bug;Poison;;Kakuna;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png
+14;Kakuna;Bug;Poison;Weedle;Beedrill;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png
+15;Beedrill;Bug;Poison;Kakuna;;Mega Beedrill;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png
+16;Pidgey;Normal;Flying;;Pidgeotto;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png
+17;Pidgeotto;Normal;Flying;Pidgey;Pidgeot;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png
+18;Pidgeot;Normal;Flying;Pidgeotto;;Mega Pidgeot;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png
+19;Rattata;Normal;;;Raticate;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png
+20;Raticate;Normal;;Rattata;Raticate;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png
+21;Spearow;Normal;Flying;;Fearow;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png
+22;Fearow;Normal;Flying;Spearow;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png
+23;Ekans;Poison;;;Arbok;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png
+24;Arbok;Poison;;Ekans;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png
+25;Pikachu;Electric;;Pichu;Raichu;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png
+26;Raichu;Electric;;Pikachu;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png
+27;Sandshrew;Ground;;;Sandslash;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png
+28;Sandslash;Ground;;Sandshrew;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png
+29;Nidoran F;Poison;;;Nidorina;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png
+30;Nidorina;Poison;;Nidoran F;Nidoqueen;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png
+31;Nidoqueen;Poison;Ground;Nidorina;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png
+32;Nidoran M;Poison;;;Nidorino;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png
+33;Nidorino;Poison;;Nidoran M;Nidoking;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png
+34;Nidoking;Poison;Ground;Nidorino;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png
+35;Clefairy;Fairy;;Cleffa;Clefable;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png
+36;Clefable;Fairy;;Clefairy;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png
+37;Vulpix;Fire;;;Ninetales;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png
+38;Ninetales;Fire;;Vulpix;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png
+39;Jigglypuff;Normal;Fairy;Igglybuff;Wigglytuff;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png
+40;Wigglytuff;Normal;Fairy;Jigglypuff;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png
+41;Zubat;Poison;Flying;;Golbat;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png
+42;Golbat;Poison;Flying;Zubat;Crobat;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png
+43;Oddish;Grass;Poison;;Gloom;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png
+44;Gloom;Grass;Poison;Oddish;Vileplume;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png
+45;Vileplume;Grass;Poison;Gloom;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png
+46;Paras;Bug;Grass;;Parasect;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png
+47;Parasect;Bug;Grass;Paras;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png
+48;Venonat;Bug;Poison;;Venomoth;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png
+49;Venomoth;Bug;Poison;Venonat;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png
+50;Diglett;Ground;;;Dugtrio;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png
+51;Dugtrio;Ground;;Diglett;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png
+52;Meowth;Normal;;;Persian;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png
+53;Persian;Normal;;Meowth;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png
+54;Psyduck;Water;;;Golduck;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png
+55;Golduck;Water;;Psyduck;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png
+56;Mankey;Fighting;;;Primeape;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png
+57;Primeape;Fighting;;Mankey;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png
+58;Growlithe;Fire;;;Arcanine;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png
+59;Arcanine;Fire;;Growlithe;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png
+60;Poliwag;Water;;;Poliwhirl;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png
+61;Poliwhirl;Water;;Poliwag;Poliwrath;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png
+62;Poliwrath;Water;Fighting;Poliwhirl;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png
+63;Abra;Psychic;;;Kadabra;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png
+64;Kadabra;Psychic;;Abra;Alakazam;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png
+65;Alakazam;Psychic;;Kadabra;;Mega Alakazam;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png
+66;Machop;Fighting;;;Machoke;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png
+67;Machoke;Fighting;;Machop;Machamp;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png
+68;Machamp;Fighting;;Machoke;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png
+69;Bellsprout;Grass;Poison;;Weepinbell;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png
+70;Weepinbell;Grass;Poison;Bellsprout;Victreebel;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png
+71;Victreebel;Grass;Poison;Weepinbell;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png
+72;Tentacool;Water;Poison;;Tentacruel;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png
+73;Tentacruel;Water;Poison;Tentacool;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png
+74;Geodude;Rock;Ground;;Graveler;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png
+75;Graveler;Rock;Ground;Geodude;Golem;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png
+76;Golem;Rock;Ground;Graveler;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png
+77;Ponyta;Fire;;;Rapidash;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png
+78;Rapidash;Fire;;Ponyta;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png
+79;Slowpoke;Water;Psychic;;Slowbro;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png
+80;Slowbro;Water;Psychic;Slowpoke;;Mega Slowbro;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png
+81;Magnemite;Electric;;;Magneton;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png
+82;Magneton;Electric;;Magnemite;Magnezone;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png
+83;Farfetch'd;Normal;Flying;;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png
+84;Doduo;Normal;Flying;;Dodrio;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png
+85;Dodrio;Normal;Flying;Doduo;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png
+86;Seel;Water;;;Dewgong;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png
+87;Dewgong;Water;Ice;Seel;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png
+88;Grimer;Poison;;;Muk;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png
+89;Muk;Poison;;Grimer;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png
+90;Shellder;Water;;;Cloyster;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png
+91;Cloyster;Water;Ice;Shellder;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png
+92;Gastly;Ghost;Poison;;Haunter;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png
+93;Haunter;Ghost;Poison;Gastly;Gengar;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png
+94;Gengar;Ghost;Poison;Haunter;;Mega Gengar;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png
+95;Onix;Rock;Ground;;Steelix;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png
+96;Drowzee;Psychic;;;Hypno;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png
+97;Hypno;Psychic;;Drowzee;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png
+98;Krabby;Water;;;Kingler;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png
+99;Kingler;Water;;Krabby;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png
+100;Voltorbe;Electric;;;Electrode;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png
+101;Electrode;Electric;;Voltorbe;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png
+102;Exeggcute;Grass;Psychic;;Exeggutor;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png
+103;Exeggutor;Grass;Psychic;Exeggcute;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png
+104;Cubone;Ground;;;Marowak;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png
+105;Marowak;Ground;;Cubone;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png
+106;Hitmonlee;Fighting;;Tyrogue;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png
+107;Hitmonchan;Fighting;;Tyrogue;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png
+108;Lickitung;Normal;;;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png
+109;Koffing;Poison;;;Weezing;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png
+110;Weezing;Poison;;Koffing;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png
+111;Rhyhorn;Ground;Rock;;Rhydon;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png
+112;Rhydon;Ground;Rock;Rhyhorn;Rhyperior;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png
+113;Chansey;Normal;;Happiny;Blissey;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png
+114;Tangela;Grass;;;Tangrowth;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png
+115;Kangaskhan;Normal;;;;Mega Kangaskhan;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png
+116;Horsea;Water;;;Seadra;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png
+117;Seadra;Water;;Horsea;Kingdra;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png
+118;Goldeen;Water;;;Seaking;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png
+119;Seaking;Water;;Goldeen;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png
+120;Staryu;Water;;;Starmie;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png
+121;Starmie;Water;Psychic;Staryu;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png
+122;Mr. Mime;Psychic;;Mime Jr.;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png
+123;Scyther;Bug;Flying;;Scizor;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png
+124;Jynx;Ice;Psychic;Smoochum;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png
+125;Electabuzz;Electric;;Elekid;Electivire;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png
+126;Magmar;Fire;;Magby;Magmortar;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png
+127;Pinsir;Bug;;;;Mega Pinsir;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png
+128;Tauros;Normal;;;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png
+129;Magikarp;Water;;;Gyarados;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png
+130;Gyarados;Water;Flying;Magikarp;;Mega Gyarados;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png
+131;Lapras;Water;Ice;;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png
+132;Ditto;Normal;;;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png
+133;Eevee;Normal;;;Vaporeon;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png
+134;Vaporeon;Water;;Eevee;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png
+135;Jolteon;Electric;;Eevee;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png
+136;Flareon;Fire;;Eevee;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png
+137;Porygon;Normal;;;Porygon2;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png
+138;Omanyte;Rock;Water;;Omastar;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png
+139;Omastar;Rock;Water;Omanyte;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png
+140;Kabuto;Rock;Water;;Kabutops;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png
+141;Kabutops;Rock;Water;Kabuto;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png
+142;Aerodactyl;Rock;Flying;;;Mega Aerodactyl;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png
+143;Snorlax;Normal;;Munchlax;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png
+144;Articuno;Ice;Flying;;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png
+145;Zapdos;Electric;Flying;;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png
+146;Moltres;Fire;Flying;;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png
+147;Dratini;Dragon;;;Dragonair;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png
+148;Dragonair;Dragon;;Dratini;Dragonite;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png
+149;Dragonite;Dragon;Flying;Dragonair;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png
+150;Mewtwo;Psychic;;;;Mega Mewtwo;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png
+151;Mew;Psychic;;;;;Kanto;1;https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png

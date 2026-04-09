@@ -1,0 +1,40 @@
+services:
+  pokemon-db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver_II
+    user: root
+    restart: always
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=${SA_PASSWORD}
+      - MSSQL_PID=Developer
+    ports:
+      - "1433:1433"
+    volumes:
+      - mssql_data:/var/opt/mssql
+
+  pokemon-api:
+    build: 
+      context: .
+      dockerfile: src/ServiceRequestApp.Api/Dockerfile
+    container_name: pokemon-api
+    ports:
+      - "5000:8080"
+    depends_on:
+      - pokemon-db
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=${DB_CONNECTIONServer}
+    
+  pokemon-app:
+    build: 
+      context: .
+      dockerfile: src/ServiceRequestApp.Blazor/Dockerfile
+    container_name: pokemon-blazor
+    ports:
+      - "8080:80"
+    depends_on:
+      - pokemon-api
+
+volumes:
+  mssql_data:
